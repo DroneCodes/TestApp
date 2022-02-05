@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: HomePage(),
-    theme: ThemeData(primarySwatch: Colors.blue),
+    theme: ThemeData(primarySwatch: Colors.blue
+    ),
   ));
 
   /// the runApp method accepts a particular application
